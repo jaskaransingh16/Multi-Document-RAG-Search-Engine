@@ -229,11 +229,8 @@ What are the key points discussed across the uploaded documents regarding the to
 ## 👨‍💻 Author
 
 **Jaskaran Singh**  
-- LinkedIn: [jaskaransinghbasra](https://www.linkedin.com/in/jaskaransinghbasra) citeturn1search1
-- GitHub: [jaskaransingh16](https://github.com/jaskaransingh16) citeturn1search1
+- LinkedIn: [jaskaransinghbasra](https://www.linkedin.com/in/jaskaransinghbasra)
+- GitHub: [jaskaransingh16](https://github.com/jaskaransingh16)
 
 ---
-
-## 📌 Note
-
-This README is written to align with the project description available in the resume. If your repository contains additional implementation details (UI, APIs, deployment scripts, notebooks, or specific models), you should update the **Installation**, **Project Structure**, and **Usage** sections accordingly. citeturn1search1
+scripts, notebooks, or specific models), you should update the **Installation**, **Project Structure**, and **Usage** sections accordingly. citeturn1search1

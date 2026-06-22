@@ -231,6 +231,3 @@ What are the key points discussed across the uploaded documents regarding the to
 **Jaskaran Singh**  
 - LinkedIn: [jaskaransinghbasra](https://www.linkedin.com/in/jaskaransinghbasra)
 - GitHub: [jaskaransingh16](https://github.com/jaskaransingh16)
-
----
-scripts, notebooks, or specific models), you should update the **Installation**, **Project Structure**, and **Usage** sections accordingly. citeturn1search1
